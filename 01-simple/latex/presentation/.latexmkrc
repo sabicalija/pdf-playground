@@ -1,0 +1,1 @@
+push @generated_exts, 'nav', 'snm';
